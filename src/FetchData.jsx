@@ -12,7 +12,7 @@ const FetchData = () => {
             }, [] )
   return (
     <div>
-       <div>
+       
             <h3>Fetch data from API in react with axios</h3>
             <table>
                   <thead>
@@ -36,7 +36,7 @@ const FetchData = () => {
                         })}
                   </tbody>
             </table>
-       </div>
+       
     </div>
   )
 }
